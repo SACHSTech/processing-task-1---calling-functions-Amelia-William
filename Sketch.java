@@ -26,10 +26,8 @@ public class Sketch extends PApplet {
 	  
 	// sample code, delete this stuff
     stroke(128);
-    line(150, 25, 270, 350);  
-
-    stroke(255);
-    line(50, 125, 70, 50);  
+    ellipse(50, 75, 20, 20);  
+ 
   }
   
   // define other methods down here.
